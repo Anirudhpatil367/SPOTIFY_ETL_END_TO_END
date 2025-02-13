@@ -76,7 +76,7 @@ The pipeline integrates with various **AWS services** and **Snowflake** to proce
 
 ### 5. Data Visualization:
 - **Power BI** integrates with **Snowflake** to create interactive dashboards, offering insights into popular tracks, artist performance, and playlist trends.
-![Power BI Dashboard](https://github.com/Anirudhpatil367/SPOTIFY_ETL_END_TO_END/blob/376268d0de50ae58a0d8f4f6da0edc36e6f2ca9e/images/Dashboard.png)
+![Power BI Dashboard](./images/Workflow.png)
 
 🔄 **How to Set Up the Spotify Data Pipeline**
 
@@ -122,4 +122,3 @@ While this pipeline already provides core functionality, there are many exciting
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to copy, paste, and modify this for your **README.md**!
