@@ -56,7 +56,7 @@ The pipeline integrates with various **AWS services** and **Snowflake** to proce
 - **Power BI** connects to **Snowflake** for real-time visualizations, enabling insights into Spotify usage trends, artist popularity, and more.
 
 🔧 **System Workflow**
-[Workflow_Diagram](https://github.com/Anirudhpatil367/SPOTIFY_ETL_END_TO_END/blob/376268d0de50ae58a0d8f4f6da0edc36e6f2ca9e/images/Workflow.png)
+[Workflow_Diagram](./images/Workflow.png)
 
 ### 1. Data Collection:
 - **AWS Lambda** functions trigger at regular intervals to call the **Spotify API** and retrieve data like artist stats, track details, and playlist information.
